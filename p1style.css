@@ -1,0 +1,224 @@
+
+.page1{
+  background-image: url(aboutmebackground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page2{
+  background-image: url(resumebackground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page3{
+  background-image: url(portfoliobackground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page4{
+  background-image: url(contactbackground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body{ 
+  font-family: 'Garamond', serif;
+  font-size: 18px;
+  background-color: #ADD8E6;
+}
+
+
+
+.navigation{
+    background-color: steelblue;
+    overflow: hidden;
+}
+
+.navigation a{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    font-size: 20px;
+    font-family: "Garamond", serif;
+}
+
+.navigation a:hover{
+    background-color: lightsteelblue;
+    color: black; 
+}
+   
+
+.navigation a.selected{
+    background-color: midnightblue;
+    color: white;
+}
+
+h1{
+    font-family: "Garamond", serif;
+    text-align: center;
+    padding: 10px 10px;
+    color: white;
+}
+
+
+#about1{
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 50%;
+}
+
+.profile{
+    padding: 2%;
+    
+}
+
+.profileimg{
+    width: 470;
+    height: 700;
+    border: solid lightsteelblue;
+    border-width: 10px;
+}
+
+.bio{
+    padding: 2%;
+}
+
+.biopara{
+    border: solid lightsteelblue;
+    border-width: 10px;
+    background-color: lightsteelblue;
+}
+
+.resume{
+    text-align: center;
+}
+
+.resumeimg{
+    width: 800;
+    height: 1000;
+    border: solid midnightblue;
+    border-width: 10px;
+}
+
+.portfolio{
+    text-align: center;
+}
+
+h2{
+    color:white;
+    background-color: midnightblue;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.writtenpara{
+    background-color: lightsteelblue;
+    color:black;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid lightsteelblue;
+    border-width: 10px;   
+}
+
+.oralpara{
+    background-color: lightsteelblue;
+    color:black;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid lightsteelblue;
+    border-width: 10px; 
+}
+
+.visualpara{
+    background-color: lightsteelblue;
+    color:black;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid lightsteelblue;
+    border-width: 10px; 
+}
+
+.thumbnail{
+    width: 300;
+    height: 400;
+}
+
+.thumbnaillink{
+    border: solid midnightblue;
+    border-width: 15px;
+}
+
+.thumbnaillink:hover{
+    border: solid steelblue;
+    border-width: 15px;
+}
+
+div.CA{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    padding: 20px;
+    background-color: steelblue;
+}
+
+div.CA a{
+    color: white;
+}
+
+div.CA a:hover{
+    color: black;
+    background-color: lightsteelblue;
+}
+
+div.CB{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    padding: 20px;
+    background-color: steelblue;
+}
+
+div.CB a{
+    color: white;
+}
+
+div.CB a:hover{
+    color: black;
+    background-color: lightsteelblue;
+}
+
+div.CC{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    padding: 20px;
+    background-color: steelblue;
+}
+
+div.CC a{
+    color: white;
+}
+
+div.CC a:hover{
+    color: black;
+    background-color: lightsteelblue;
+}
+
+div.CD{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    padding: 20px;
+    background-color: steelblue;
+}
+
+
